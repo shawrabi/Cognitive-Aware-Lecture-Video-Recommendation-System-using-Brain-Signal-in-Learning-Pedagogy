@@ -10,8 +10,11 @@ Steps: i) First you executed the code File_trim_6sec.ipynb : This code trim firs
     			a) algorithm = kmeans or bisecting_kmeans
     			b) Dataset path and name.
     			c) CSV file name where you save the output (video attention value).
+			
         iii) Next you executed the code IntRec.ipynb : This code find the attention of the video for each student using without clastring.
+	
 	iv) Next you executed the code NDCG.ipynb : Using this code you find out the NDCG.
+	
 	iv) Next you executed the code Recall_precision.ipynb : Using this code you find out the Recall, Precision, and F1 value.
 
 Contact: 
